@@ -1,0 +1,14 @@
+{
+  "name": "Huml",
+  "description": "A simple markup language designed for non-developers to easily create and update config files",
+  "version": "1.0.0",
+  "homepage": "http://github.com/liamhegenbarth/huml",
+  "repository": "git://github.com/liamhegenbarth/huml.git",
+  "author": "Liam Hegenbarth <mail@liamhegenbarth.co.uk> (http://www.liamhegenbarth.co.uk/)",
+  "main": "./index.js",
+  "keywords": [
+    "huml parser"
+  ],
+  "devDependencies": {},
+  "dependencies": {}
+}
